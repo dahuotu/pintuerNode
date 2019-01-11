@@ -11,6 +11,9 @@
 > 运行环境测试
 由于软件是基于C#语言开发，需要测试在不同操作系统条件下的运行情况，所以现招募工具内测人员。
 
+###### >Github地址
+[https://github.com/dahuotu/pintuerCode.git](https://github.com/dahuotu/pintuerCode.git)
+
 ###### > 要求
 1. 拥有Github账号，用于提交建议和反馈BUG。
 2. 拼图响应式前端框架使用者优先。
@@ -29,7 +32,3 @@
 ---
 
 ![image](https://github.com/dahuotu/pintuerCode/blob/master/qrcode.jpg?raw=true)
-
-
-###### >Github地址
-[https://github.com/dahuotu/pintuerCode.git](https://github.com/dahuotu/pintuerCode.git)
