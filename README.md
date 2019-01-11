@@ -31,3 +31,5 @@
 ![image](https://github.com/dahuotu/pintuerCode/blob/master/qrcode.jpg?raw=true)
 
 
+###### >Github地址
+[https://github.com/dahuotu/pintuerCode.git](https://github.com/dahuotu/pintuerCode.git)
