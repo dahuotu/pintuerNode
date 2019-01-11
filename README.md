@@ -23,7 +23,11 @@
 3. 特殊贡献者大火兔承诺可享受其他产品内测名额。
 
 ###### >如何参与内测
-扫码加微信群，参与内测。
 
+#### 扫码加微信群，参与内测。
+
+---
+
+![image](https://github.com/dahuotu/pintuerCode/blob/master/qrcode.jpg?raw=true)
 
 
