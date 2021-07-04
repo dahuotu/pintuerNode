@@ -1,0 +1,24 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="com.DaHuotu.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="appName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">拼图大前端Node代码生成器</Value>
+    </Setting>
+    <Setting Name="appVersion" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1.0.1</Value>
+    </Setting>
+    <Setting Name="appSite" Type="System.String" Scope="User">
+      <Value Profile="(Default)">https://www.dahuotu.com/</Value>
+    </Setting>
+    <Setting Name="appAbout" Type="System.String" Scope="User">
+      <Value Profile="(Default)">mailto:1979788761@qq.com?subject=标准工具&amp;bc=1979788761@qq.com&amp;bcc=qqblackboy@126.com</Value>
+    </Setting>
+    <Setting Name="appIsStart" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="appIsStartTime" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+  </Settings>
+</SettingsFile>
